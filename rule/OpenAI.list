@@ -21,7 +21,6 @@ HOST-SUFFIX,segment.io,ChatGPT
 HOST-SUFFIX,sentry.io,ChatGPT
 HOST-SUFFIX,stripe.com,ChatGPT
 HOST-SUFFIX,turn.livekit.cloud,ChatGPT
-HOST-SUFFIX,,openai,ChatGPT
 HOST-SUFFIX,bing.com,ChatGPT
 HOST-SUFFIX,gemini.google.com,ChatGPT
 HOST-SUFFIX,copilot.microsoft.com,ChatGPT
